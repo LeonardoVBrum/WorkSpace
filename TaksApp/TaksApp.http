@@ -1,0 +1,6 @@
+@TaksApp_HostAddress = http://localhost:5213
+
+GET {{TaksApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
